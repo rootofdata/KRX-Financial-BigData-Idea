@@ -20,20 +20,20 @@
 
 - The analysis was based on six key financial metrics (assets, liabilities, equity, revenue, operating income, net income) from semiconductor ETFs from the first quarter of 2019 to the fourth quarter of 2021. Using this data, eight indicators were derived:
 
-**- Stability Indicators (%)**
-  - Debt Ratio: (Total Debt / Total Equity) * 100  
+- **Stability Indicators (%)**
+-   Debt Ratio: (Total Debt / Total Equity) * 100  
   - Equity Ratio: (Total Equity / Total Assets) * 100  
-**- Profitability Indicators (%)  **
+- **Profitability Indicators (%)**
   - Net Profit Margin: (Net Income / Revenue) * 100  
   - Operating Profit Margin: (Operating Income / Revenue) * 100  
-**- Activity Indicators (%)  **
-
+- **Activity Indicators (%)**
   - Total Asset Turnover: Revenue / Total Assets  
   - Equity Turnover: Revenue / Total Equity  
-**- Growth Indicators (%) ** 
+- **Growth Indicators (%)**
 
   - Operating Income Growth Rate: ((Current Operating Income - Previous Operating Income) / Previous Operating Income) * 100
   - Net Income Growth Rate: ((Current Net Income - Previous Net Income) / Previous Net Income) * 100
+    
 **Portfolio Construction Method**
 
 The portfolio was constructed based on the weighted average scores of the selected 34 stocks. The weights for each stock were adjusted to balance stability, profitability, and growth. Regular rebalancing was performed to optimize the investment portfolio.
