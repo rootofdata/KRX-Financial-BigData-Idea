@@ -1,7 +1,8 @@
 # KRX-Financial-BigData-Idea
 
 ###
-**Idea Title:** Development of Funds Based on ETF Analysis and Prediction of Stocks (ETF 종목 분석 및 예측을 통한 펀드 개발)
+**Idea Title:** Development of Funds Based on ETF Analysis and Prediction of Stocks  
+  (ETF 종목 분석 및 예측을 통한 펀드 개발)
 
 **Idea Overview:**  
 - Utilizing historical quarterly data of individual stocks within a specific sector (semiconductors), machine learning techniques will be applied to predict the data for the upcoming quarters. Using these predicted data, time series analysis will be employed to select stocks within the sector that meet the criteria. These selected stocks will form a portfolio, creating a unique ETF product which will be developed and launched.
